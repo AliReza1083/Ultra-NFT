@@ -1,0 +1,6 @@
+first section {
+	#F2B4B0;
+	#F6FDE2;
+	#FEECE5;
+	#E5E5F0;
+}

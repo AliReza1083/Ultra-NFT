@@ -1,0 +1,6 @@
+second section {
+	#E2F3FE;
+	#F2B4B0;
+	#ADF2CD;
+	#F6FDE2;
+}

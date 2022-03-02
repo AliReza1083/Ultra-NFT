@@ -1,0 +1,6 @@
+third section {
+	#F7DBA5;
+	#EEA4A4;
+	#E2F3FE;
+	#F6FDE2;
+}
